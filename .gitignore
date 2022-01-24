@@ -1,0 +1,7 @@
+zig-cache/
+inputs/
+
+# Editor specifics
+.vscode
+.idea
+.sublime*
